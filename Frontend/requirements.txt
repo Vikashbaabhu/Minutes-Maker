@@ -1,0 +1,7 @@
+Flask
+tensorflow
+matplotlib
+numpy
+streamlit
+boto3
+requests
